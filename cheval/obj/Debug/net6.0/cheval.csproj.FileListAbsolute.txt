@@ -1,0 +1,15 @@
+C:\Users\Taki Academy\Desktop\cheval\cheval\bin\Debug\net6.0\cheval.exe
+C:\Users\Taki Academy\Desktop\cheval\cheval\bin\Debug\net6.0\cheval.deps.json
+C:\Users\Taki Academy\Desktop\cheval\cheval\bin\Debug\net6.0\cheval.runtimeconfig.json
+C:\Users\Taki Academy\Desktop\cheval\cheval\bin\Debug\net6.0\cheval.dll
+C:\Users\Taki Academy\Desktop\cheval\cheval\bin\Debug\net6.0\cheval.pdb
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.csproj.AssemblyReference.cache
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.AssemblyInfoInputs.cache
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.AssemblyInfo.cs
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.csproj.CoreCompileInputs.cache
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.dll
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\refint\cheval.dll
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.pdb
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\cheval.genruntimeconfig.cache
+C:\Users\Taki Academy\Desktop\cheval\cheval\obj\Debug\net6.0\ref\cheval.dll
